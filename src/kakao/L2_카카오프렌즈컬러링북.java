@@ -1,7 +1,5 @@
 package kakao;
 
-import java.util.Collection;
-import java.util.Iterator;
 import java.util.LinkedList;
 import java.util.Queue;
 
@@ -51,9 +49,6 @@ public class L2_카카오프렌즈컬러링북 {
 			}
 		}
         
-        
-        System.out.println("::"+numberOfArea);
-        System.out.println("::"+maxSizeOfOneArea);
 
         int[] answer = new int[2];
         answer[0] = numberOfArea;
