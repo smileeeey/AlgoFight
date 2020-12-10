@@ -6,12 +6,13 @@ public class L1_두정수사이의합 {
 		System.out.println(new L1_두정수사이의합().solution(5,3));
 	}
 
-	private int solution(int i, int j) {
+	private long solution(int a, int b) {
 		
-		int big = 0, small = 0,answer=0;
+		int big = 0, small = 0;
+		long answer=0;
 		
-		big = Math.max(i, j);
-		small = Math.min(i, j);
+		big = Math.max(a, b);
+		small = Math.min(a, b);
 		
 		for (int j2 = small; j2 <= big; j2++) {
 			answer+=j2;
