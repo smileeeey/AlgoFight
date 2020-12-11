@@ -49,7 +49,6 @@ public class L1_나누어떨어지는숫자배열 {
 	
 	//똑똑한 풀이
 	public int[] solution2(int[] array, int divisor) {
-		
         return Arrays.stream(array).filter(factor -> factor % divisor == 0).toArray();
     }
 }
