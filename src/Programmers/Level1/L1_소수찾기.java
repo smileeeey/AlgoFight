@@ -1,8 +1,5 @@
 package Programmers.Level1;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class L1_소수찾기 {
 
 	public static void main(String[] args) {
