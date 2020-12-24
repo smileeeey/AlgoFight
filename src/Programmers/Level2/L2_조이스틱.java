@@ -14,7 +14,8 @@ public class L2_조이스틱 {
 		for(char c : name.toCharArray()) {
 			
 			System.out.println("prev:"+prev+" / c:"+c);
-			//prev와 c 사이에 최소 이동 횟수 구하기
+			
+			// 1. 한 알파벳씩 이동했을 때의 최소값
 			int min = Math.abs(prev - c);
 			
 			if(min == 0)	continue;
@@ -23,8 +24,9 @@ public class L2_조이스틱 {
 			int disA = prev-'A';
 			int disZ = 'Z'-prev;
 			
-			// disZ
-			min = Math.min(min, )
+			// 2. 
+			
+			min = Math.min(min,);
 			if(disA > disZ) {
 				cnt+=disZ;
 				cnt+=Math.min(c-'A', 'Z'-c);
