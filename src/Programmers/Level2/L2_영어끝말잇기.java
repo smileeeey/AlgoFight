@@ -32,7 +32,7 @@ public class L2_영어끝말잇기 {
 			int before = set.size();
 			set.add(words[i]);
 			int after = set.size();
-			System.out.println(words[i].length()+" "+before+","+after+" "+last+","+words[i].charAt(0));
+			//System.out.println(words[i].length()+" "+before+","+after+" "+last+","+words[i].charAt(0));
 			if(words[i].length() == 1 || before == after || last!=words[i].charAt(0))
 			{
 				//걸리면
@@ -43,7 +43,7 @@ public class L2_영어끝말잇기 {
 			last = words[i].charAt(words[i].length()-1);
 		}
 		
-		System.out.println(failNum+" "+ failCnt);
+		//System.out.println(failNum+" "+ failCnt);
 		return new int[] {failNum, failCnt};
 	}
 
