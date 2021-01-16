@@ -1,4 +1,4 @@
-package 삼성SW역량테스트기출;
+package SWEA_삼성SW역량테스트기출;
 
 import java.io.BufferedReader;
 import java.io.IOException;
