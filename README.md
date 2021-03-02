@@ -8,11 +8,11 @@
 기본기를 다지고 넘어가는 시간을 갖자
 
 #### [basic]
-> 1. SW Expert Academy D 1~3
-> 2. 프로그래머스 level 1~3
+> 1. SW Expert Academy D 1~3   ✅
+> 2. 프로그래머스 level 1~3       ✅
 
 #### [challenge]
-> 삼성역량테스트 기출 풀기
+> 삼성역량테스트 기출 풀기⚠️
 
 <br>
 
