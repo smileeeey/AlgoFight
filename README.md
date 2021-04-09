@@ -10,6 +10,13 @@
 #### [basic]
 > 1. SW Expert Academy D 1~3   ✅
 > 2. 프로그래머스 level 1~3       ✅
+ 
+| 문제 | 완료 |
+|--|--|
+|Lv2.||
+| [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)| ✅ |
+| [124나라의숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)|✅|
+
 
 #### [challenge]
 > 삼성역량테스트 기출 풀기⚠️
